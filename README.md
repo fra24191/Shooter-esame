@@ -10,4 +10,4 @@
 ### Lo sfondo prevede ostacoli fissi da evitare per non incorrere dannose. 
 ### SIstema punteggio: distruggendo i nemici si ottengono punti. A fine livello si ottegono punteggi bonus in base alle vite rimaste(/utilizzate). 
 ### A fine livello è previsto un boss da sconfiggere. 
-### Una volta x livello appare un power up bomba emp, che se raccolto rimane attivo per un po di tempo. 
+### Una volta x livello appare un ufo che se acchiappato garantisce un power up, che se raccolto attivo lo sparo 2 per un po di tempo. 
